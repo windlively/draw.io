@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T12:49:28.662Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.44" etag="3Ogp1K5X356iRu56eN7-" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T13:27:09.419Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.44" etag="aNeKh7WoLBkNhxCwcLKL" version="15.1.4" type="github">
   <diagram id="JNFQF2zDmBJSuzSLmIvQ" name="第 1 页">
     <mxGraphModel dx="2665" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="r181ZMQSl69mX4do0vOS-10" value="每日日终任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="610" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r181ZMQSl69mX4do0vOS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.945;exitY=-0.067;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="r181ZMQSl69mX4do0vOS-13" target="r181ZMQSl69mX4do0vOS-20">
+        <mxCell id="r181ZMQSl69mX4do0vOS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.945;exitY=-0.067;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="r181ZMQSl69mX4do0vOS-13" target="r181ZMQSl69mX4do0vOS-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r181ZMQSl69mX4do0vOS-13" value="极简网关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -53,7 +53,7 @@
           <mxGeometry x="340" y="610" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r181ZMQSl69mX4do0vOS-19" value="电票价格维护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="817" y="580" width="140" height="60" as="geometry" />
+          <mxGeometry x="820" y="585" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r181ZMQSl69mX4do0vOS-20" value="合作机构报价维护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="690" width="140" height="60" as="geometry" />
@@ -105,8 +105,8 @@
         <mxCell id="r181ZMQSl69mX4do0vOS-35" value="电票核心系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="530" width="130" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="r181ZMQSl69mX4do0vOS-39" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="250" width="45" height="80" as="geometry" />
+        <mxCell id="r181ZMQSl69mX4do0vOS-41" value="电票同业交易平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="535" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
