@@ -1,0 +1,287 @@
+<mxfile host="app.diagrams.net" modified="2021-09-16T13:32:17.713Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="Tdix8_hJru6Im0ekOb1A" version="15.2.7" type="github">
+  <diagram id="gjjfhEqOlBLSCpjZTNxB" name="第 1 页">
+    <mxGraphModel dx="5107" dy="1659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bWsxu2lpcLckADZo8OrW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" parent="1" source="bWsxu2lpcLckADZo8OrW-1" target="bWsxu2lpcLckADZo8OrW-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;组装步骤列表&lt;br&gt;assembleTransStepMOList&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="104" y="240.5" width="227" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="bWsxu2lpcLckADZo8OrW-2" target="bWsxu2lpcLckADZo8OrW-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;前置校验&lt;br&gt;validateBeforeAccept&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="427" y="240.5" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" parent="1" source="bWsxu2lpcLckADZo8OrW-4" target="bWsxu2lpcLckADZo8OrW-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;保存transFlowMO模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="427" y="352" width="180" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" parent="1" source="bWsxu2lpcLckADZo8OrW-6" target="bWsxu2lpcLckADZo8OrW-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;保存所有步骤模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="119" y="358.5" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" parent="1" source="bWsxu2lpcLckADZo8OrW-10" target="bWsxu2lpcLckADZo8OrW-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;受理完成处理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="119" y="445" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bWsxu2lpcLckADZo8OrW-12" target="bWsxu2lpcLckADZo8OrW-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;通过异步命令调用execute方法，开始流程步骤处理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="102" y="525" width="214" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" parent="1" source="bWsxu2lpcLckADZo8OrW-14" target="bWsxu2lpcLckADZo8OrW-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-14" value="&lt;font style=&quot;font-size: 18px&quot;&gt;步骤处理（步骤处理器的execute -&amp;gt; process方法）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="153" y="826" width="234" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="bWsxu2lpcLckADZo8OrW-15" target="bWsxu2lpcLckADZo8OrW-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-19" value="&lt;font style=&quot;font-size: 16px&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#DAD2D8;fontColor=#143642;" parent="bWsxu2lpcLckADZo8OrW-18" vertex="1" connectable="0">
+          <mxGeometry x="-0.1889" y="-3" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" parent="1" source="bWsxu2lpcLckADZo8OrW-15" target="bWsxu2lpcLckADZo8OrW-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-22" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#DAD2D8;fontColor=#143642;" parent="bWsxu2lpcLckADZo8OrW-20" vertex="1" connectable="0">
+          <mxGeometry x="-0.1059" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-15" value="&lt;font style=&quot;font-size: 18px&quot;&gt;是否等待异步回调&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="190" y="940" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-17" value="&lt;font style=&quot;font-size: 18px&quot;&gt;退出循环，流程暂停，等待回调&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="460" y="1057.5" width="172" height="54.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" parent="1" source="bWsxu2lpcLckADZo8OrW-23" target="bWsxu2lpcLckADZo8OrW-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="1225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-25" value="&lt;font style=&quot;font-size: 16px&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#DAD2D8;fontColor=#143642;" parent="bWsxu2lpcLckADZo8OrW-24" vertex="1" connectable="0">
+          <mxGeometry x="0.2333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-29" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" parent="1" source="bWsxu2lpcLckADZo8OrW-23" target="bWsxu2lpcLckADZo8OrW-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-33" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#143642;labelBackgroundColor=none;" parent="bWsxu2lpcLckADZo8OrW-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.3" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-23" value="&lt;font style=&quot;font-size: 18px&quot;&gt;是否需要重试&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1050" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bWsxu2lpcLckADZo8OrW-26" target="bWsxu2lpcLckADZo8OrW-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-41" y="852" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-26" value="&lt;font style=&quot;font-size: 18px&quot;&gt;异步命令执行重试&lt;br&gt;（正常为executeRetry，异步回调为callbackRetry）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="-151" y="1025.5" width="220" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-31" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;entryPerimeter=0;" parent="1" source="bWsxu2lpcLckADZo8OrW-28" target="bWsxu2lpcLckADZo8OrW-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-32" value="&lt;font style=&quot;font-size: 16px&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#143642;labelBackgroundColor=none;" parent="bWsxu2lpcLckADZo8OrW-31" vertex="1" connectable="0">
+          <mxGeometry x="-0.2143" y="2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-37" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" parent="1" source="bWsxu2lpcLckADZo8OrW-28" target="bWsxu2lpcLckADZo8OrW-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-28" value="&lt;font style=&quot;font-size: 18px&quot;&gt;是否为成功标识&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1156" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-40" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="bWsxu2lpcLckADZo8OrW-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="676" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="1382" />
+              <mxPoint x="-200" y="1382" />
+              <mxPoint x="-200" y="676" />
+              <mxPoint x="270" y="676" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-41" value="&lt;font style=&quot;font-size: 16px&quot;&gt;执行下一流程&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#143642;labelBackgroundColor=none;" parent="bWsxu2lpcLckADZo8OrW-40" vertex="1" connectable="0">
+          <mxGeometry x="0.0208" relative="1" as="geometry">
+            <mxPoint y="-161" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-36" value="&lt;font style=&quot;font-size: 18px&quot;&gt;将节点类型更新为下一个节点类型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="179.5" y="1276" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-51" value="&lt;font style=&quot;font-size: 16px&quot;&gt;acceptOperateRequest&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;labelBackgroundColor=none;" parent="1" source="bWsxu2lpcLckADZo8OrW-38" target="bWsxu2lpcLckADZo8OrW-1" edge="1">
+          <mxGeometry x="-0.0404" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-38" value="&lt;font style=&quot;font-size: 18px&quot;&gt;启动流程&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#143642;fillColor=#FAE5C7;" parent="1" vertex="1">
+          <mxGeometry x="-254" y="218" width="160" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-43" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" parent="1" source="bWsxu2lpcLckADZo8OrW-42" target="bWsxu2lpcLckADZo8OrW-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-44" value="&lt;font style=&quot;font-size: 16px&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#143642;labelBackgroundColor=none;" parent="bWsxu2lpcLckADZo8OrW-43" vertex="1" connectable="0">
+          <mxGeometry x="-0.2286" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-46" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="bWsxu2lpcLckADZo8OrW-42" target="bWsxu2lpcLckADZo8OrW-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339" y="793" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="702" y="735" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-48" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#143642;labelBackgroundColor=none;fontSize=16;" parent="bWsxu2lpcLckADZo8OrW-46" vertex="1" connectable="0">
+          <mxGeometry x="-0.5114" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-42" value="&lt;span&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px&quot;&gt;所有步骤是否完成&lt;/font&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="192.5" y="705" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-45" value="&lt;font style=&quot;font-size: 18px&quot;&gt;流程处理结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#143642;fillColor=#FAE5C7;" parent="1" vertex="1">
+          <mxGeometry x="632" y="1308.13" width="140" height="71.25" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-47" value="&lt;font style=&quot;font-size: 18px&quot;&gt;终止流程，置为FAIL状态&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#143642;fillColor=#FAE5C7;" parent="1" vertex="1">
+          <mxGeometry x="427" y="1310" width="140" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-50" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="bWsxu2lpcLckADZo8OrW-49" target="bWsxu2lpcLckADZo8OrW-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="524" y="635" />
+              <mxPoint x="270" y="635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-49" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;是否为结束节点&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;color: rgb(18 , 20 , 22)&quot;&gt;PROCESSOR_FINISH_NODE&lt;/span&gt;&lt;font color=&quot;#000000&quot;&gt;)&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%26gt%3B%26lt%3Bfont%20color%3D%26quot%3B%23000000%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2012px%26quot%3B%26gt%3B%E6%89%80%E6%9C%89%E6%AD%A5%E9%AA%A4%E6%98%AF%E5%90%A6%E5%AE%8C%E6%88%90%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22strokeWidth%3D2%3Bhtml%3D1%3Bshape%3Dmxgraph.flowchart.decision%3BwhiteSpace%3Dwrap%3BfillColor%3Dnone%3BstrokeColor%3D%230F8B8D%3BfontColor%3D%23143642%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22145%22%20y%3D%22780%22%20width%3D%22250%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="399" y="504" width="250" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-55" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" parent="1" source="bWsxu2lpcLckADZo8OrW-53" target="bWsxu2lpcLckADZo8OrW-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-56" value="&lt;pre&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Helvetica&quot; color=&quot;#000000&quot;&gt;acceptCallbackOperateRequest&lt;/font&gt;&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#143642;labelBackgroundColor=none;" parent="bWsxu2lpcLckADZo8OrW-55" vertex="1" connectable="0">
+          <mxGeometry x="-0.4667" relative="1" as="geometry">
+            <mxPoint x="52" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-53" value="&lt;font style=&quot;font-size: 18px&quot;&gt;异步回执&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#143642;fillColor=#FAE5C7;" parent="1" vertex="1">
+          <mxGeometry x="703" y="215.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-58" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" parent="1" source="bWsxu2lpcLckADZo8OrW-54" target="bWsxu2lpcLckADZo8OrW-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-54" value="&lt;font style=&quot;font-size: 18px&quot;&gt;寻找回调到的步骤模型&lt;br&gt;（TransStepMO）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="1003" y="290.5" width="213" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-60" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" parent="1" source="bWsxu2lpcLckADZo8OrW-57" target="bWsxu2lpcLckADZo8OrW-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-57" value="&lt;font style=&quot;font-size: 18px&quot;&gt;寻找流程模型&lt;br&gt;（TransFlowMO）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="1019.5" y="375" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-64" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" parent="1" source="bWsxu2lpcLckADZo8OrW-59" target="bWsxu2lpcLckADZo8OrW-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-59" value="&lt;font style=&quot;font-size: 18px&quot;&gt;通过异步命令调用callback方法，继续流程步骤处理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="996.75" y="472" width="225.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-63" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" parent="1" source="bWsxu2lpcLckADZo8OrW-61" target="bWsxu2lpcLckADZo8OrW-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-61" value="&lt;font style=&quot;font-size: 18px&quot;&gt;加载StepMO和FlowMO模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="1017" y="591" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-65" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.686;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" parent="1" source="bWsxu2lpcLckADZo8OrW-62" target="bWsxu2lpcLckADZo8OrW-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-66" value="&lt;font style=&quot;font-size: 16px&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#143642;labelBackgroundColor=none;" parent="bWsxu2lpcLckADZo8OrW-65" vertex="1" connectable="0">
+          <mxGeometry x="-0.7791" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-70" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" parent="1" source="bWsxu2lpcLckADZo8OrW-62" target="bWsxu2lpcLckADZo8OrW-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-74" value="&lt;font style=&quot;font-size: 16px&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#143642;labelBackgroundColor=none;" parent="bWsxu2lpcLckADZo8OrW-70" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-62" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;br&gt;是否为结束节点&lt;br&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;（&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;color: rgb(18 , 20 , 22)&quot;&gt;PROCESSOR_FINISH_NODE&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;）&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%26gt%3B%26lt%3Bfont%20color%3D%26quot%3B%23000000%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2012px%26quot%3B%26gt%3B%E6%89%80%E6%9C%89%E6%AD%A5%E9%AA%A4%E6%98%AF%E5%90%A6%E5%AE%8C%E6%88%90%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22strokeWidth%3D2%3Bhtml%3D1%3Bshape%3Dmxgraph.flowchart.decision%3BwhiteSpace%3Dwrap%3BfillColor%3Dnone%3BstrokeColor%3D%230F8B8D%3BfontColor%3D%23143642%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22145%22%20y%3D%22780%22%20width%3D%22250%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="984.5" y="685" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-68" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="bWsxu2lpcLckADZo8OrW-67" target="bWsxu2lpcLckADZo8OrW-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="662" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="898" />
+              <mxPoint x="770" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-69" value="&lt;font style=&quot;font-size: 16px&quot;&gt;不一致&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#143642;labelBackgroundColor=none;" parent="bWsxu2lpcLckADZo8OrW-68" vertex="1" connectable="0">
+          <mxGeometry x="0.384" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" parent="1" source="bWsxu2lpcLckADZo8OrW-67" target="bWsxu2lpcLckADZo8OrW-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-75" value="&lt;font style=&quot;font-size: 16px&quot;&gt;一致&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#143642;labelBackgroundColor=none;" parent="bWsxu2lpcLckADZo8OrW-72" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-67" value="&lt;font color=&quot;#000000&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;数据库中的TranStepMO的stepType和TransFlowMO中的currentStepType是否一致&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="904.5" y="842" width="410" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="bWsxu2lpcLckADZo8OrW-71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="272" y="898" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="626" y="1033" />
+              <mxPoint x="626" y="898" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsxu2lpcLckADZo8OrW-71" value="&lt;font style=&quot;font-size: 18px&quot;&gt;回调步骤处理（步骤处理器的callback -&amp;gt; callbackProcess方法）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+          <mxGeometry x="969" y="996" width="281" height="74" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
