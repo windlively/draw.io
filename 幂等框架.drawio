@@ -1,101 +1,132 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T12:30:20.313Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="uOQHDui72M5rNL0k5qL5" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-17T12:36:11.854Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="x4ePL28Ke5ljbl3XWhOY" version="15.2.7" type="github">
   <diagram id="igh11UMaJkNHh2tWOo5f" name="第 1 页">
-    <mxGraphModel dx="2665" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2665" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-1" target="FEhQMsWHOCF_CDbBEnn5-2">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-1" target="FEhQMsWHOCF_CDbBEnn5-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;execute&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;execute&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="270" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-2" target="FEhQMsWHOCF_CDbBEnn5-4">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-2" target="FEhQMsWHOCF_CDbBEnn5-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;初始化上下文数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;初始化上下文数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="245" y="230" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-4" target="FEhQMsWHOCF_CDbBEnn5-6">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-4" target="FEhQMsWHOCF_CDbBEnn5-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;根据幂等键进行幂等验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;根据幂等键进行幂等验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="245" y="340" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-6" target="FEhQMsWHOCF_CDbBEnn5-8">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-6" target="FEhQMsWHOCF_CDbBEnn5-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-10" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Y&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FEhQMsWHOCF_CDbBEnn5-9">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-10" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Y&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#F1FAEE;fontColor=#1D3557;" vertex="1" connectable="0" parent="FEhQMsWHOCF_CDbBEnn5-9">
           <mxGeometry x="-0.4" y="3" relative="1" as="geometry">
-            <mxPoint x="8" y="3" as="offset" />
+            <mxPoint x="8" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-6" target="FEhQMsWHOCF_CDbBEnn5-21">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-6" target="FEhQMsWHOCF_CDbBEnn5-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;是否捕获到异常&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;捕获到异常&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="242" y="450" width="176" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-8" target="FEhQMsWHOCF_CDbBEnn5-11">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-8" target="FEhQMsWHOCF_CDbBEnn5-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-18" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Y&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FEhQMsWHOCF_CDbBEnn5-12">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-18" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Y&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#F1FAEE;fontColor=#1D3557;" vertex="1" connectable="0" parent="FEhQMsWHOCF_CDbBEnn5-12">
           <mxGeometry x="-0.2706" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-8" target="FEhQMsWHOCF_CDbBEnn5-15">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-8" target="FEhQMsWHOCF_CDbBEnn5-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-19" value="&lt;font style=&quot;font-size: 16px&quot;&gt;N&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FEhQMsWHOCF_CDbBEnn5-16">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-19" value="&lt;font style=&quot;font-size: 16px&quot;&gt;N&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#F1FAEE;fontColor=#1D3557;" vertex="1" connectable="0" parent="FEhQMsWHOCF_CDbBEnn5-16">
           <mxGeometry x="-0.1586" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;是否为唯一键冲突异常&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;唯一键冲突异常&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-170" y="455" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-11" target="FEhQMsWHOCF_CDbBEnn5-13">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-11" target="FEhQMsWHOCF_CDbBEnn5-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-60" y="915" />
+              <mxPoint x="-60" y="995" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;返回表中的幂等信息，使用方根据businessNo返回幂等数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;返回表中的幂等信息，使用方根据businessNo返回幂等数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-160" y="670" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="280" y="890" width="100" height="50" as="geometry" />
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="280" y="970" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-15" target="FEhQMsWHOCF_CDbBEnn5-13">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-15" target="FEhQMsWHOCF_CDbBEnn5-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="960" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-340" y="915" />
+              <mxPoint x="-340" y="995" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-15" value="&lt;font style=&quot;font-size: 18px&quot;&gt;抛出未知异常&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-15" value="&lt;font style=&quot;font-size: 18px&quot;&gt;抛出未知异常&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-440" y="670" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-21" target="FEhQMsWHOCF_CDbBEnn5-23">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-21" target="FEhQMsWHOCF_CDbBEnn5-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-21" value="&lt;font style=&quot;font-size: 18px&quot;&gt;业务检查及组装&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="570" width="140" height="60" as="geometry" />
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-21" value="&lt;font style=&quot;font-size: 18px&quot;&gt;业务检查及组装&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="260" y="570" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-23" target="FEhQMsWHOCF_CDbBEnn5-25">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-23" target="FEhQMsWHOCF_CDbBEnn5-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-23" value="&lt;span style=&quot;font-size: 18px&quot;&gt;核心处理逻辑&lt;br&gt;（事务控制）&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="660" width="140" height="60" as="geometry" />
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-23" value="&lt;span style=&quot;font-size: 18px&quot;&gt;核心处理逻辑&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="260" y="640" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-25" target="FEhQMsWHOCF_CDbBEnn5-13">
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-25" target="FEhQMsWHOCF_CDbBEnn5-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-25" value="&lt;font style=&quot;font-size: 18px&quot;&gt;修改幂等状态&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="270" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-28" target="FEhQMsWHOCF_CDbBEnn5-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FEhQMsWHOCF_CDbBEnn5-25" value="&lt;font style=&quot;font-size: 18px&quot;&gt;修改幂等状态&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-30" value="&lt;font style=&quot;font-size: 16px&quot;&gt;N&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#F1FAEE;fontColor=#1D3557;" vertex="1" connectable="0" parent="FEhQMsWHOCF_CDbBEnn5-29">
+          <mxGeometry x="-0.1429" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-28" target="FEhQMsWHOCF_CDbBEnn5-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-33" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Y&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#F1FAEE;fontColor=#1D3557;" vertex="1" connectable="0" parent="FEhQMsWHOCF_CDbBEnn5-32">
+          <mxGeometry x="0.0154" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-28" value="&lt;font style=&quot;font-size: 18px&quot;&gt;异常产生&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="220" y="830" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="FEhQMsWHOCF_CDbBEnn5-31" target="FEhQMsWHOCF_CDbBEnn5-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="995" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-31" value="&lt;font style=&quot;font-size: 18px&quot;&gt;删除幂等记录及幂等补偿异步命令&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="570" y="835" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
