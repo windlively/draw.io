@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T12:37:25.564Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="7nDK-4SjVhx0uguaidzQ" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-17T12:38:42.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="3EDuKopWJidmZSxN-bkH" version="15.2.7" type="github">
   <diagram id="igh11UMaJkNHh2tWOo5f" name="第 1 页">
     <mxGraphModel dx="2665" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -127,6 +127,12 @@
         </mxCell>
         <mxCell id="FEhQMsWHOCF_CDbBEnn5-31" value="&lt;font style=&quot;font-size: 18px&quot;&gt;删除幂等记录及幂等补偿异步命令&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="570" y="835" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-35" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#000000;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="617.5" width="320" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="FEhQMsWHOCF_CDbBEnn5-36" value="&lt;font style=&quot;font-size: 16px&quot;&gt;事务控制&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;sketch=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="430" y="630" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
