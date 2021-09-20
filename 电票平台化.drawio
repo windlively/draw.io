@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T04:01:53.970Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52" etag="dQan24yLzF-xPttWxp_8" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-20T04:03:45.633Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52" etag="cGqG-sBgjhcUHqyyLTQg" version="15.2.9" type="github">
   <diagram id="JNFQF2zDmBJSuzSLmIvQ" name="第 1 页">
-    <mxGraphModel dx="1909" dy="722" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2354" dy="1019" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,7 +45,7 @@
         <mxCell id="r181ZMQSl69mX4do0vOS-10" value="每日日终任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="570" y="650" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r181ZMQSl69mX4do0vOS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.937;exitY=-0.017;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="r181ZMQSl69mX4do0vOS-13" target="r181ZMQSl69mX4do0vOS-20" edge="1">
+        <mxCell id="r181ZMQSl69mX4do0vOS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.896;exitY=-0.019;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="r181ZMQSl69mX4do0vOS-13" target="r181ZMQSl69mX4do0vOS-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r181ZMQSl69mX4do0vOS-13" value="极简网关" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
@@ -80,12 +80,13 @@
         <mxCell id="r181ZMQSl69mX4do0vOS-23" value="网商价格接收" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="150" y="1000" width="114" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r181ZMQSl69mX4do0vOS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.93;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="r181ZMQSl69mX4do0vOS-24" target="r181ZMQSl69mX4do0vOS-13" edge="1">
+        <mxCell id="r181ZMQSl69mX4do0vOS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.898;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="r181ZMQSl69mX4do0vOS-24" target="r181ZMQSl69mX4do0vOS-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="920" />
-              <mxPoint x="920" y="920" />
+              <mxPoint x="352" y="920" />
+              <mxPoint x="892" y="920" />
             </Array>
+            <mxPoint x="890" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r181ZMQSl69mX4do0vOS-24" value="价格变更推送" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
